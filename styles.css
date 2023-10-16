@@ -1,0 +1,12 @@
+h1 {
+    color: blue
+}
+
+#title {
+    font-family: Georgia, "Times New Roman", sans-serif;
+}
+
+.important {
+    font-weight: bold;
+    font-style: italic;
+}
